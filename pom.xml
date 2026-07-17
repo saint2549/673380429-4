@@ -21,9 +21,9 @@
        โดย xxxx = รหัสนักศึกษาของคุณ
   ───────────────────────────────────────────── -->
   <groupId>com.example</groupId>
-  <artifactId>myapp-673380429-4</artifactId>
+  <artifactId>myapp-XXXX</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>myapp-673380429-4</name>
+  <name>myapp-XXXX</name>
   <description>Lab03 Spring Boot REST API — CP353002</description>
   <packaging>jar</packaging>
 
