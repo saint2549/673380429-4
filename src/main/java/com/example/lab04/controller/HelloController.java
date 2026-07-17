@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * HelloController — REST Controller ตัวอย่างสำหรับ Lab03
+ * HelloController — REST Controller ตัวอย่างสำหรับ Lab04
  *
  * TODO: แก้ไขข้อมูลส่วนตัวด้านล่างให้เป็นของคุณ
  *   - NAME    : ชื่อ-สกุล ของนักศึกษา
